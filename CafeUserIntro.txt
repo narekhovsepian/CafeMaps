@@ -1,0 +1,9 @@
+﻿	1 - Show Cafes
+	2 - Search Cafes by Cordinate Nearby
+	3 - Show Office Days And Hours
+	4 - Search Cafes by Name
+	5 - Add cafe
+	6 - Remove cafe
+	7 - Rate cafe
+	8 - Log out
+	0 - Exit Programs

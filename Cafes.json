@@ -1,0 +1,247 @@
+[
+  {
+    "ID": "1",
+    "Name": "Hard Rock Cafe Paris",
+    "Address": "14 Boulevard Montmartre, 75009 Paris, France",
+    "CordinateX": "48.8541588",
+    "CordinateY": "2.3304159",
+    "WorkTime": [
+      {
+        "Day": "Monday",
+        "From": "02:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "From": "05:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Thursday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Friday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Saturday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Sunday",
+        "From": "09:00",
+        "To": "20:00"
+      }
+    ],
+    "Review": [
+      {
+        "CafeID": "1",
+        "UserID": "Vahan",
+        "Rate": "5",
+        "Comment": "Greate!"
+      },
+      {
+        "CafeID": "1",
+        "UserID": "Vahan",
+        "Rate": "4",
+        "Comment": "OK!"
+      }
+    ]
+  },
+  {
+    "ID": "2",
+    "Name": "BREIZH Cafe",
+    "Address": "109 Rue Vieille du Temple, 75003 Paris, France",
+    "CordinateX": "48.8563392",
+    "CordinateY": "2.359017",
+    "WorkTime": [
+      {
+        "Day": "Monday",
+        "From": "08:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Thursday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Friday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Saturday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Sunday",
+        "From": "09:00",
+        "To": "20:00"
+      }
+    ],
+    "Review": [ ]
+  },
+  {
+    "ID": "3",
+    "Name": "Grand Cafe de la Poste",
+    "Address": "103 Boulevard Malesherbes, 75008 Paris, France",
+    "CordinateX": "48.8616713",
+    "CordinateY": "2.333494",
+    "WorkTime": [
+      {
+        "Day": "Monday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Thursday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Friday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Saturday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Sunday",
+        "From": "09:00",
+        "To": "20:00"
+      }
+    ],
+    "Review": [ ]
+  },
+  {
+    "ID": "4",
+    "Name": "Le Cafe Marly",
+    "Address": "93 Rue de Rivoli, 75001 Paris, France",
+    "CordinateX": "48.871964",
+    "CordinateY": "2.3394523",
+    "WorkTime": [
+      {
+        "Day": "Monday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Thursday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Friday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Saturday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Sunday",
+        "From": "09:00",
+        "To": "20:00"
+      }
+    ],
+    "Review": [ ]
+  },
+  {
+    "ID": "5",
+    "Name": "Cafe de Flore",
+    "Address": "172 Boulevard Saint-Germain, 75006 Paris, France",
+    "CordinateX": "48.87942",
+    "CordinateY": "2.3116753",
+    "WorkTime": [
+      {
+        "Day": "Monday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Thursday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Friday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Saturday",
+        "From": "09:00",
+        "To": "20:00"
+      },
+      {
+        "Day": "Sunday",
+        "From": "09:00",
+        "To": "20:00"
+      }
+    ],
+    "Review": [
+      {
+        "CafeID": "5",
+        "UserID": "Vahan",
+        "Rate": "4",
+        "Comment": "))"
+      }
+    ]
+  }
+]
